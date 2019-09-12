@@ -23,4 +23,21 @@ Corpus](http://lotus.kuee.kyoto-u.ac.jp/WAT/my-en-data/) using
  - 
 
  
- 
+# Cite
+
+If you use the resources above, please cite:
+
+```
+@InProceedings{mariannmt,
+    title     = {Sarah's Participation in WAT 2019},
+    author    = {Susanto, Raymond Hendy and Htun Ohnmar and Liling Tan},
+    booktitle = {Proceedings of Workshop for Asian Translation (WAT) 
+2019},
+    pages     = {},
+    publisher = {Association for Computational Linguistics},
+    year      = {2019},
+    month     = {October},
+    address   = {Hong Kong},
+    url       = {}
+}
+``` 
