@@ -4,7 +4,7 @@ Myanmar and Thai Language Resources
 
 ## License
 
-[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
+[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
  
 
 ## Myanmar
