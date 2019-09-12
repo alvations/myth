@@ -33,8 +33,8 @@ If you use the resources above, please cite:
 @InProceedings{mariannmt,
     title     = {Sarah's Participation in WAT 2019},
     author    = {Susanto, Raymond Hendy and Htun Ohnmar and Liling Tan},
-    booktitle = {Proceedings of Workshop for Asian Translation (WAT) 
-2019},
+    booktitle = {Proceedings of 6th Workshop on Asian Translation (WAT 
+2019)},
     pages     = {},
     publisher = {Association for Computational Linguistics},
     year      = {2019},
