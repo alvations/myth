@@ -5,7 +5,7 @@ Myanmar and Thai Language Resources
 ## License
 
 [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
- 
+
 
 ## Myanmar
 
@@ -14,13 +14,17 @@ Myanmar and Thai Language Resources
  - `mypos-dver.1.0.my-en.tsv`: Google translated from https://github.com/ye-kyaw-thu/myPOS
  - `talpco.my-en.tsv`: Human translation of https://github.com/matbahasa/TALPCo (`data_myn.txt`)
  - `open-lexicon.my-en.tsv`: Human translation Myanmar-English dictionary
- - `muse/`: Synthetic Myanmar-English translations from [UCSY Corpus](http://lotus.kuee.kyoto-u.ac.jp/WAT/my-en-data/) using [MUSE](https://github.com/facebookresearch/MUSE) 
+ - `muse/`: Synthetic Myanmar-English translations from [UCSY Corpus](http://lotus.kuee.kyoto-u.ac.jp/WAT/my-en-data/) using [MUSE](https://github.com/facebookresearch/MUSE)
 
 ## Thai
 
- - 
+ - `muddy-path.en-th.tsv`: Human translations from [seasrc.th.net](https://web.archive.org/web/20070401161006/http://seasrc.th.net/bitext/mud-bi.htm)
+ - `building-sandpiles.en-th.tsv`: Human translations from [seasrc.th.net](https://web.archive.org/web/20061001210014/http://seasrc.th.net/bitext/sand-bi.htm)
+ - `jan-darra.en-th.tsv`: Human translations from [seasrc.th.net](https://web.archive.org/web/20061001205341/http://seasrc.th.net/bitext/jan-bi.htm)
+ - `wizard-of-oz.en-th.tsv`: Human translations from [seasrc.th.net](https://web.archive.org/web/20070511024709/http://seasrc.th.net/bitext/oz-bi.htm)
+ - `mad-dog.en-th.tsv`: Human translations from [seasrc.th.net](https://web.archive.org/web/20061001205922/http://seasrc.th.net/bitext/mad-bi.htm)
 
- 
+
 # Cite
 
 If you use the resources above, please cite:
@@ -37,4 +41,4 @@ If you use the resources above, please cite:
     address   = {Hong Kong},
     url       = {}
 }
-``` 
+```
