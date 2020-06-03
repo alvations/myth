@@ -1,3 +1,5 @@
+#!/bin/sh
+
 SRC=$1           # en
 TRG=$2           # ja
 RANDSEED=$3      # 42
