@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 SRC=$1           # en
 TRG=$2           # ja
