@@ -51,4 +51,4 @@ $MARIAN --model $MODELDIR/model.npz --type transformer \
 --optimizer-params 0.9 0.98 1e-09 --clip-norm 5 \
 --devices $GPUS --workspace $WORKSPACE  --optimizer-delay 2 --sync-sgd --seed $RANDSEED \
 --exponential-smoothing \
---shuffle-in-ram
+--shuffle-in-ram --keep-best
