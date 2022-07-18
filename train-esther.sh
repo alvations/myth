@@ -4,14 +4,14 @@ SRC=fr           # en
 TRG=xx           # ja
 RANDSEED=5      # 42
 DOMAIN=transliterate        # jparacrawl
-ELAYERS=1       # 6
-DLAYERS=1
-HEADS=1         # 8
+ELAYERS=6       # 6
+DLAYERS=6
+HEADS=8         # 8
 DIMEMB=1024        # 1024
 DIMTRA=4096      # 4096
 VOCABSIZE=8000     # 32000
 LR=0.0001         # 0.0001
-DROPOUT=0.8    # 0.1
+DROPOUT=0.1    # 0.1
 
 MODELDIR=$HOME/stash/fdi-models/fdi-$ELAYERS+$DLAYERS-$HEADS-$DIMEMB-$DIMTRA-$VOCABSIZE-$LR-$DROPOUT/$SRC-$TRG-r$RANDSEED/
 
